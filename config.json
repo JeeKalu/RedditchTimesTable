@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "timetable": {
+    "csvUrl": "https://raw.githubusercontent.com/yourorg/yourrepo/main/timetable.csv",
+    "hash": "sha256:55af699457c1970f2ead29fe223f88a912ace3f034847894ebb8a16bba42264c"
+  },
+  "announcement": {
+    "hash": "sha256:47a5d957a57b7a64b1308191898d4609c897e6f6e5f5592130957f3815b4d179",
+    "messageUrl": "https://raw.githubusercontent.com/yourorg/yourrepo/main/announcement.json",
+    "startUtc": "2026-08-28T00:00:00Z",
+    "endUtc": "2026-09-05T23:59:00Z"
+  }
+}
