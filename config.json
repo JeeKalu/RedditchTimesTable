@@ -5,7 +5,7 @@
     "hash": "sha256:55AF699457C1970F2EAD29FE223F88A912ACE3F034847894EBB8A16BBA42264C"
   },
   "announcement": {
-    "hash": "sha256:47a5d957a57b7a64b1308191898d4609c897e6f6e5f5592130957f3815b4d179",
+    "hash": "sha256:5563AE0613DBC0BC249183E884EBC9646876919F85CDAC3B1D2809E53E7745AC",
     "messageUrl": "https://jeekalu.github.io/RedditchTimesTable/announcement.json",
     "startUtc": "2026-08-28T00:00:00Z",
     "endUtc": "2026-09-05T23:59:00Z"
