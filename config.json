@@ -1,7 +1,7 @@
 {
   "version": 2,
   "timetable": {
-    "csvUrl": "https://jeekalu.github.io/RedditchTimesTable/timetable.csv",
+    "csvUrl": "https://jeekalu.github.io/RedditchTimesTable/Timetable.csv",
     "hash": "sha256:7279c028ac297732595740c42accd453a4ae61e449a4cdebb485e1713be9469f"
   },
   "announcement": {
