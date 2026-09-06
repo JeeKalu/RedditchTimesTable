@@ -5,9 +5,11 @@
     "hash": "sha256:55AF699457C1970F2EAD29FE223F88A912ACE3F034847894EBB8A16BBA42264C"
   },
   "announcement": {
-    "hash": "sha256:82B9E9BF6C7799809352E779BA177A0F530452000235B0D931D3AB07EB7FEB77",
-    "messageUrl": "https://jeekalu.github.io/RedditchTimesTable/announcement.json",
-    "startUtc": "2026-09-05T18:15:00Z",
-    "endUtc": "2026-09-05T19:30:00Z"
+    "type": "image",
+    "hash": "sha256:6f1d43f292a895956303b77ecd8ef5c6e270c0d180bd6c017f092c9b8c495b0b",
+    "messageUrl": "https://jeekalu.github.io/RedditchTimesTable/poster.jpg",
+    "caption": "Janaza Announcement",
+    "startUtc": "2026-09-06T19:30:00Z",
+    "endUtc": "2026-09-05T21:30:00Z"
   }
 }
