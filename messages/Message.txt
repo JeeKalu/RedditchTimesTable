@@ -1,0 +1,5 @@
+; One message per line. Lines starting with ; are ignored.
+; Messages scroll along the footer one after another.
+Please switch off your mobile phones.
+Please keep the house of Allah clean and tidy.
+
