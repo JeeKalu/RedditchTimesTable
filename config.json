@@ -1,15 +1,157 @@
 {
-  "version": 2,
-  "timetable": {
-    "csvUrl": "https://jeekalu.github.io/RedditchTimesTable/Timetable.csv",
-    "hash": "sha256:55AF699457C1970F2EAD29FE223F88A912ACE3F034847894EBB8A16BBA42264C"
+  "General": {
+    "ClockMode": 24,
+    "Enable English page": true,
+    "Enable Urdu page": false,
+    "Enable Quotes page": true,
+    "Enable Weather page": false,
+    "Enable Warning page": false,
+    "Show Border": false,
+    "Enable Announcements page": true,
+    "Animation Pause Period": 15,
+    "Prayer Change Display Time": 300,
+    "Add number of minutes to Maghrib": 3,
+    "Iqamma Alert Enable": true,
+    "Iqamma Sound Track": "Azan1.wav",
+    "Jumma Adhan Alert Enable": true,
+    "Jumma Adhan Alert Time": 10,
+    "Jumma Adhan Sound Track": "Azan1.wav",
+    "Jumma Prayer Time Override Enable": false,
+    "First Jumma Iqamma": "00:00",
+    "Second Jumma Iqamma": "00:00",
+    "Third Jumma Iqamma": "00:00",
+    "Iqamma Change Over Time": 15,
+    "Ramdhan Maghrib Iqama Additional Time": 0,
+    "Tasbeeh Traweeh Enable": true,
+    "Tasbeeh Traweeh Display Time": 45,
+    "Country": "England",
+    "City": "Redditch",
+    "Weather Units": "Metric",
+    "Weather API Key": "",
+    "Weather Interval Update": 15
   },
-  "announcement": {
-    "type": "image",
-    "hash": "sha256:7473aa7c6f82e98662b10e5b68ae26abd61e32b93a4a182d7f3d273a8661212b",
-    "messageUrl": "https://jeekalu.github.io/RedditchTimesTable/poster.jpg",
-    "caption": "Janaza Announcement",
-    "startUtc": "2026-09-06T18:30:00Z",
-    "endUtc": "2026-09-05T23:30:00Z"
+  "Mosque Title": {
+    "Title": "WELCOME TO CENTRAL JAMIA MASJID-E-NOOR REDDITCH",
+    "Font Family": "segoeuib",
+    "Style": "Normal",
+    "Title Marquee Type": "BottomToTop",
+    "Title Marquee Speed": 25,
+    "Size": 120
+  },
+  "Hijari": {
+    "Correction": -1
+  },
+  "Theme": {
+    "Background Style": "Gradient",
+    "Background Color": "#071A14",
+    "Gradient Centre": "#123A2E",
+    "Gradient Middle": "#071A14",
+    "Gradient Edge": "#030B08",
+    "Line Color": "#F2DC9B",
+    "Line Thickness": 2,
+    "Text Color": "#F2DC9B",
+    "Active Color": "White",
+    "Change Color": "Red",
+    "Version": 4
+  },
+  "Warning Page": {
+    "Heading": "NO CALL IS MORE\\nIMPORTANT THAN\\nCALL TO ALLAH",
+    "Message": "PLEASE SWITCH OFF\\nYOUR MOBILE PHONES.",
+    "Thanks": "THANK YOU",
+    "Urdu": "برائے مہربانی اپنے موبائل\\nفون بند کردیں۔ شکریہ",
+    "Font Family": "segoeuib",
+    "Style": "Normal",
+    "Urdu Font Family": "Jameel Noori Nastaleeq"
+  },
+  "Page Display Timing": {
+    "Prayer Page Time": 30,
+    "Quotes Page Time": 15,
+    "Weather Page Time": 10,
+    "Announcement Page Time": 15,
+    "Warning Page Time": 15,
+    "Random Quotes Animation Enable": false,
+    "Transition Type": "Fade"
+  },
+  "Message": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal",
+    "Message Marquee Type": "RightToLeft",
+    "Message Marquee Speed": 25,
+    "Size": 50
+  },
+  "GB Bismillah": {
+    "Text": "Q",
+    "Font Family": "B e s m e l l a h 2",
+    "Style": "Normal"
+  },
+  "GB Islamic Date": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal"
+  },
+  "GB Date": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal"
+  },
+  "GB Time": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal"
+  },
+  "GB Prayer Header": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal",
+    "Size": 100
+  },
+  "GB Prayer Name": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal"
+  },
+  "GB Prayer Time": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal"
+  },
+  "UR Bismillah": {
+    "Text": "M",
+    "Font Family": "B e s m e l l a h 2",
+    "Style": "Normal"
+  },
+  "UR Islamic Date": {
+    "Font Family": "segoeuib",
+    "Style": "Normal"
+  },
+  "UR Date": {
+    "Font Family": "segoeuib",
+    "Style": "Normal"
+  },
+  "UR Time": {
+    "Font Family": "segoeuib",
+    "Style": "Normal"
+  },
+  "UR Prayer Header": {
+    "Font Family": "Jameel Noori Nastaleeq",
+    "Style": "Normal",
+    "Size": 100
+  },
+  "UR Prayer Name": {
+    "Font Family": "Jameel Noori Nastaleeq",
+    "Style": "Normal"
+  },
+  "UR Prayer Time": {
+    "Font Family": "Segoe UI",
+    "Style": "Normal"
+  },
+  "Screen Margin": {
+    "Left": 2,
+    "Right": 2,
+    "Top": 2,
+    "Bottom": 22,
+    "Rotation": 270
+  },
+  "Windows": {
+    "Start with Windows": true
+  },
+  "Sync": {
+    "Remote Data URL": "",
+    "Timetable URL": "https://github.com/JeeKalu/RedditchTimesTable",
+    "Sync Interval": 60
   }
 }
