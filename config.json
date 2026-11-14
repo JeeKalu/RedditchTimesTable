@@ -64,8 +64,8 @@
     "Urdu Font Family": "Jameel Noori Nastaleeq"
   },
   "Page Display Timing": {
-    "Prayer Page Time": 30,
-    "Quotes Page Time": 15,
+    "Prayer Page Time": 20,
+    "Quotes Page Time": 10,
     "Weather Page Time": 10,
     "Announcement Page Time": 15,
     "Warning Page Time": 15,
@@ -143,7 +143,7 @@
     "Left": 2,
     "Right": 2,
     "Top": 2,
-    "Bottom": 22,
+    "Bottom": 2,
     "Rotation": 270
   },
   "Windows": {
@@ -153,5 +153,8 @@
     "Remote Data URL": "",
     "Timetable URL": "https://github.com/JeeKalu/RedditchTimesTable",
     "Sync Interval": 60
+  },
+  "Security": {
+    "PIN Hash": "e5a714f3917294ff61101ec30a7716b3e95731c458758d2c52af7a6a7baa429d"
   }
 }
