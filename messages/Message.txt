@@ -1,6 +1,7 @@
 ; One message per line. Lines starting with ; are ignored.
 ; Messages scroll along the footer one after another.
 Welcome to Redditch Central Mosque
+Namaz-e-Janaza for the beloved father of Zafar Iqbal and Ansar Iqbal, and uncle of Chaudhry Muhammad Asif, will take place at Redditch Central Mosque after Isha prayers at 19:30 on Thursday 19th November.
 Please switch off your mobile phones.
 Please keep the house of Allah clean and tidy.
 
